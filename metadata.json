@@ -1,0 +1,5 @@
+{
+  "name": "AI Meeting Minutes Generator",
+  "description": "A modern web application that generates a clean, searchable, and professional Meeting Minutes Template based on user inputs, formatting the output instantly in Markdown syntax.",
+  "requestFramePermissions": []
+}
