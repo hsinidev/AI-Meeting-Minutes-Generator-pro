@@ -1,7 +1,7 @@
 # 🚀 AI Meeting Minutes Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fmeeting.doodax.com&label=Live%20Demo)](https://meeting.doodax.com)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2doodax.com&label=Live%20Demo)](https://doodax.com/tools/effortless-meeting-minutes/index.html)
 
 **Effortless Documentation for the Modern Professional.**
 
